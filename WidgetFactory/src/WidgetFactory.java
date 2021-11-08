@@ -28,4 +28,8 @@ public class WidgetFactory {
      Profit: $760.00
 
      */
+
+    public static void main() {
+
+    }
 }
